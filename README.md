@@ -69,5 +69,10 @@ Your report should include:
   - BER analyzer output  
   - Eye diagram  
 - Discussion of differences between analytical and simulation results.  
+<img width="1485" height="1288" alt="WhatsApp Image 2026-05-13 at 9 35 29 AM" src="https://github.com/user-attachments/assets/e03b8139-bebb-408d-b282-cc3e57d3cb6e" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-13 092806" src="https://github.com/user-attachments/assets/fbc6be57-0165-48bb-9083-c85dba607216" />
+
 
 ---
+## Result
+The simulation result closely matched the analysis value with only minor variation due to filter bandwidth and numerical effects confirming the theoretical receiver sensitivity.
